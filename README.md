@@ -5,4 +5,6 @@ Edited again in master branch.
 Hello, again!!!
 
 Updated in master branch
+Updated in newBranch
+
 
